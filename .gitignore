@@ -1,0 +1,10 @@
+pes
+pes_debug
+test_objects
+test_tree
+*.o
+.pes/
+file1.txt
+file2.txt
+bye.txt
+sample.txt
