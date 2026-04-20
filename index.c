@@ -223,3 +223,4 @@ void cmd_status(void) {
     if (index_load(&index) != 0) { fprintf(stderr, "error: failed to load index\n"); return; }
     index_status(&index);
 }
+// Phase 3: index staging complete
