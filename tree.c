@@ -180,3 +180,4 @@ int tree_from_index(ObjectID *id_out) {
 
     return write_tree_level(index.entries, index.count, id_out);
 }
+// Phase 2: tree serialization complete
