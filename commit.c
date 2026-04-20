@@ -234,3 +234,4 @@ void branch_list(void)                { printf("(branch: not yet implemented)\n"
 int  branch_create(const char *name)  { (void)name;   return -1; }
 int  branch_delete(const char *name)  { (void)name;   return -1; }
 int  checkout(const char *target)     { (void)target; return -1; }
+// Phase 4: commit history complete
